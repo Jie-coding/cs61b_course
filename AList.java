@@ -76,7 +76,6 @@ public class AList<arrayType> {
         A1.addLast("get");
         A1.addLast("a");
         A1.addFirst("good");
-        A1.addFirst("job");
         System.out.println(A1.size);
         System.out.println(A1.get(1));
     }
