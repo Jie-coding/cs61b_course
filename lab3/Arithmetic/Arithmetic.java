@@ -1,3 +1,4 @@
+package  PACKAGE_NAME.Arithmetic;
 public class Arithmetic {
     /** Computes product of two ints */
 

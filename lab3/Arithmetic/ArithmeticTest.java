@@ -1,3 +1,4 @@
+package  PACKAGE_NAME.Arithmetic;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
