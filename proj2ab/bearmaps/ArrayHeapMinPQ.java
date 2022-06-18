@@ -130,12 +130,5 @@ public class ArrayHeapMinPQ<T> implements ExtrinsicMinPQ<T> {
         }
     }
 
-
-    public static void main(String[] args) {
-        ArrayHeapMinPQ<String> heapMinPQ = new ArrayHeapMinPQ<>();
-
-        heapMinPQ.removeSmallest();
-        heapMinPQ.changePriority("d", 101);
-
-    }
 }
+
